@@ -1,0 +1,9 @@
+﻿  FileName.cpp
+C:\Users\pc\source\repos\Project7\Project7\FileName.cpp(50,30): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\pc\source\repos\Project7\Project7\FileName.cpp(50,42): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\pc\source\repos\Project7\Project7\FileName.cpp(101,11): warning C4101: 'avg_response_time': unreferenced local variable
+C:\Users\pc\source\repos\Project7\Project7\FileName.cpp(185,11): warning C4101: 'avg_response_time': unreferenced local variable
+C:\Users\pc\source\repos\Project7\Project7\FileName.cpp(285,11): warning C4101: 'avg_response_time': unreferenced local variable
+C:\Users\pc\source\repos\Project7\Project7\FileName.cpp(659,11): warning C4101: 'cpu_utilisation': unreferenced local variable
+C:\Users\pc\source\repos\Project7\Project7\FileName.cpp(658,11): warning C4101: 'avg_response_time': unreferenced local variable
+  Project7.vcxproj -> C:\Users\pc\source\repos\Project7\x64\Debug\Project7.exe
